@@ -1,0 +1,9 @@
+{
+  "bot_token": "MTExMzk3NjMzMTY1NTQ1NDg1Mg.GBx4ij.IG6LYth-AmILTwxQieLLisGyIXElEwzJmBMq74", 
+  "bot_name": "PikaTunes",
+  "bot_url": "https://www.youtube.com",
+  "bot_thumbnail": "https://media.discordapp.net/attachments/1086443967077417041/1152971158401077279/toppng.com-pikachu-cara-5-846x832.png?width=688&height=676",
+  "bot_footer": "Made By Aman3321",
+  "genius_api_key": " ",
+  "REQUIRED_ROLE": "MusicMaster"  
+}
